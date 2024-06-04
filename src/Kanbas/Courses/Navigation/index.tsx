@@ -4,7 +4,6 @@ import "./index.css";
 export default function CoursesNavigation() {
   const { cid } = useParams();
   const location = useLocation();
-  
   const links = ["Home", "Modules", "Piazza", "Zoom", "Assignments", "Quizzes", "Grades"];
 
   return (

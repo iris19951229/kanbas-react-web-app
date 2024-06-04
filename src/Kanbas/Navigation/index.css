@@ -1,0 +1,49 @@
+
+#wd-kanbas-navigation {
+  width: 100px;
+  background-color: black;
+}
+
+#wd-neu-link img {
+  display: block;
+  margin: 20px auto; 
+}
+
+.list-group-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0; 
+}
+
+.list-group-item a, .list-group-item a:hover {
+  text-decoration: none;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-danger {
+  color: red;
+}
+
+.fs-1 {
+  font-size: 2em;
+  margin-bottom: -20px;
+}
+
+.vh-100 {
+  height: 100vh;
+}
+
+  
